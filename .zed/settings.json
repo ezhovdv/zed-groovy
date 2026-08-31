@@ -1,0 +1,12 @@
+{
+	"lsp": {
+		"groovy": {
+			"settings": {
+				"groovy": {
+					// Auto-detected by extension. Uncomment to override:
+					// "classpath": ["/path/to/groovy/lib/*"]
+				}
+			}
+		}
+	}
+}

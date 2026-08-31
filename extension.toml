@@ -8,7 +8,7 @@ repository = "https://github.com/valentinegb/zed-groovy"
 
 [language_servers.groovy]
 name = "Groovy"
-language = "Groovy"
+languages = ["Groovy"]
 
 [grammars.groovy]
 repository = "https://github.com/murtaza64/tree-sitter-groovy"
